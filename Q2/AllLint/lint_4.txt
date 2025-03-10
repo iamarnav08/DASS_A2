@@ -1,0 +1,11 @@
+************* Module gobblet_4
+gobblet_4.py:40:4: R0913: Too many arguments (6/5) (too-many-arguments)
+gobblet_4.py:145:0: R0914: Too many local variables (24/15) (too-many-locals)
+gobblet_4.py:175:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+gobblet_4.py:145:0: R0912: Too many branches (22/12) (too-many-branches)
+gobblet_4.py:145:0: R0915: Too many statements (76/50) (too-many-statements)
+gobblet_4.py:175:4: R1702: Too many nested blocks (7/5) (too-many-nested-blocks)
+
+------------------------------------------------------------------
+Your code has been rated at 9.60/10 (previous run: 9.60/10, +0.00)
+

@@ -1,0 +1,29 @@
+************* Module gobblet_2
+gobblet_2.py:129:0: C0301: Line too long (108/100) (line-too-long)
+gobblet_2.py:130:0: C0301: Line too long (106/100) (line-too-long)
+gobblet_2.py:138:0: C0301: Line too long (133/100) (line-too-long)
+gobblet_2.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+gobblet_2.py:4:0: E1101: Module 'pygame' has no 'init' member (no-member)
+gobblet_2.py:19:61: E1101: Module 'pygame' has no 'RESIZABLE' member (no-member)
+gobblet_2.py:22:0: C0115: Missing class docstring (missing-class-docstring)
+gobblet_2.py:23:4: R0913: Too many arguments (6/5) (too-many-arguments)
+gobblet_2.py:32:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:37:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:40:0: C0115: Missing class docstring (missing-class-docstring)
+gobblet_2.py:46:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:55:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:61:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:66:4: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:95:0: C0116: Missing function or method docstring (missing-function-docstring)
+gobblet_2.py:95:0: R0914: Too many local variables (24/15) (too-many-locals)
+gobblet_2.py:170:29: E1101: Module 'pygame' has no 'QUIT' member (no-member)
+gobblet_2.py:171:16: E1101: Module 'pygame' has no 'quit' member (no-member)
+gobblet_2.py:174:31: E1101: Module 'pygame' has no 'MOUSEBUTTONDOWN' member (no-member)
+gobblet_2.py:122:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+gobblet_2.py:95:0: R0912: Too many branches (22/12) (too-many-branches)
+gobblet_2.py:95:0: R0915: Too many statements (76/50) (too-many-statements)
+gobblet_2.py:122:4: R1702: Too many nested blocks (7/5) (too-many-nested-blocks)
+
+-----------------------------------
+Your code has been rated at 7.05/10
+

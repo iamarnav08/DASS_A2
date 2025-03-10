@@ -1,0 +1,20 @@
+************* Module gobblet_3
+gobblet_3.py:181:67: C0303: Trailing whitespace (trailing-whitespace)
+gobblet_3.py:183:67: C0303: Trailing whitespace (trailing-whitespace)
+gobblet_3.py:192:85: C0303: Trailing whitespace (trailing-whitespace)
+gobblet_3.py:9:0: E1101: Module 'pygame' has no 'init' member (no-member)
+gobblet_3.py:24:61: E1101: Module 'pygame' has no 'RESIZABLE' member (no-member)
+gobblet_3.py:39:4: R0913: Too many arguments (6/5) (too-many-arguments)
+gobblet_3.py:144:0: R0914: Too many local variables (24/15) (too-many-locals)
+gobblet_3.py:225:29: E1101: Module 'pygame' has no 'QUIT' member (no-member)
+gobblet_3.py:226:16: E1101: Module 'pygame' has no 'quit' member (no-member)
+gobblet_3.py:229:31: E1101: Module 'pygame' has no 'MOUSEBUTTONDOWN' member (no-member)
+gobblet_3.py:174:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+gobblet_3.py:144:0: R0912: Too many branches (22/12) (too-many-branches)
+gobblet_3.py:144:0: R0915: Too many statements (76/50) (too-many-statements)
+gobblet_3.py:174:4: R1702: Too many nested blocks (7/5) (too-many-nested-blocks)
+gobblet_3.py:271:4: W0105: String statement has no effect (pointless-string-statement)
+
+-----------------------------------
+Your code has been rated at 7.67/10
+
